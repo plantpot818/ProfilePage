@@ -1,0 +1,42 @@
+body {
+  background-color: sandybrown;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 500px;
+
+  .top {
+    text-align: center;
+  }
+  
+  .about {
+    background-color:lightblue;
+    border: solid;
+    padding: 10px;
+    margin: 10px;
+    
+  }
+
+  .school {
+    background-color: #86c23d;
+    border: solid;
+    padding: 10px;
+    margin: 10px;
+    
+  }
+
+  .skill {
+    background-color: #dd2c47;
+    border: solid;
+    padding: 10px;
+    margin: 10px;
+
+  }
+
+  .activity {
+    background-color: #cc8828;
+    border: solid;
+    padding: 10px;
+    margin: 10px;
+
+  }
+  
+}
