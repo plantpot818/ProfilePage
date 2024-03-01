@@ -1,5 +1,5 @@
 body {
-  background-color: sandybrown;
+  background-color: #4a9c8e;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 500px;
 
@@ -8,7 +8,7 @@ body {
   }
   
   .about {
-    background-color:lightblue;
+    background-color:	#66bd8c;
     border: solid;
     padding: 10px;
     margin: 10px;
@@ -16,7 +16,7 @@ body {
   }
 
   .school {
-    background-color: #86c23d;
+    background-color: #caf4ad;
     border: solid;
     padding: 10px;
     margin: 10px;
@@ -24,7 +24,7 @@ body {
   }
 
   .skill {
-    background-color: #dd2c47;
+    background-color: #ffa0b2;
     border: solid;
     padding: 10px;
     margin: 10px;
@@ -32,7 +32,7 @@ body {
   }
 
   .activity {
-    background-color: #cc8828;
+    background-color: #dd3a7e;
     border: solid;
     padding: 10px;
     margin: 10px;
